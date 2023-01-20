@@ -93,4 +93,4 @@ Werkzeug==2.2.2
 wrapt==1.14.1
 zipp==3.11.0
 streamlit_option_menu
-tensorflow==2.10.0
+tensorflow

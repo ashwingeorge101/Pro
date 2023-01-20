@@ -90,7 +90,7 @@ urllib3==1.26.14
 validators==0.20.0
 watchdog==2.2.1
 Werkzeug==2.2.2
-wrapt==1.14.1
+wrapt
 zipp==3.11.0
 streamlit_option_menu
 tensorflow==2.5.0
